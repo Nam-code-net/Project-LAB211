@@ -1,0 +1,6 @@
+P2,Xe dien doi moi,2,3,2023,510000.0
+P5,Xe dap bay,2,2,2022,200000.0
+P4,xe dien may,3,2,2024,120000.0
+P6,xe dien be,2,3,2022,40000.0
+P3,xe dap nui,2,3,2002,20000.0
+P1,Xe dap dien,1,2,2022,12000.0

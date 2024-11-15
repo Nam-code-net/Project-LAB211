@@ -1,0 +1,4 @@
+1, Mountain Bike
+2, Road Bike
+3, Hybrid Bike
+4, Electric Bike
